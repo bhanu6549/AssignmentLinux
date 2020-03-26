@@ -1,2 +1,6 @@
 ""
-"feature 1 with 2 bugs feture 2 wip"
+<<<<<<< HEAD
+"feature 1"
+=======
+"feature 1"
+>>>>>>> c59a98e985c1b90bfe7f89be5f134b505d14ee1a
